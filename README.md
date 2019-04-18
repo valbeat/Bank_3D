@@ -1,3 +1,3 @@
-Bank_3D
+bank-kit
 =======
-CADデータ
+貯金箱のCADデータ
